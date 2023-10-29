@@ -591,8 +591,8 @@ nav .coloor{
 
 @media only screen and (max-width:550px){
     .sec4{
-        margin-bottom: -30px;
-        height: 350vh;
+       
+        height: 300vh;
     }
     .sec4 .text {
         width: 100%;
@@ -952,6 +952,7 @@ footer .top{
 }
 footer .top .list ul{
     display: flex;
+    list-style:none;
 }
 footer .top .list ul li a{
     margin: 0 3px;
